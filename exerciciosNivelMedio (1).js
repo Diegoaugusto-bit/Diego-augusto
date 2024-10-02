@@ -56,7 +56,7 @@ Você foi contratado pelo governo imperial para criar um sistema que gerencie a 
 O sistema deve imprimir o nome do líder, o tipo de operação, a quantidade de especiaria e o lucro total esperado.
 */
 
-/*
+
 let nomeLiderOperacao = ask.question("Qual o nome do lider da operacao? ")
 let tipoOperacao = ask.question("Qual o tipo da operacao? ")
 let quantidade = Number(ask.question("Qual a quantidade em toneladas? "))
@@ -115,7 +115,7 @@ Você foi contratado pela WOOHP para criar um sistema de planejamento de missõe
 O sistema deve imprimir o nome da espiã, o tipo de missão, o nível de risco, o tempo estimado de conclusão e a quantidade de gadgets necessários.
 */
 
-/*
+
 let nomeEspia = ask.question('Qual o nome da espia? ')
 let tipoMissao = ask.question("Qual o tipo da missao? RE, IN ou DE: ")
 let nivelRisco = ask.question("Qual o risco da missao? AL, ME ou BA: ")
